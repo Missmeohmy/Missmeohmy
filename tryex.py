@@ -1,0 +1,15 @@
+#This code is an example of how to use try/except conditions
+
+astr =  'Hello Bob'
+try:
+    istr = int(astr)
+except:
+    istr = -1
+print('First', istr)
+
+astr = '123'
+try:
+    istr = int(astr)
+except:
+    istr = -1
+print('Second', istr)
