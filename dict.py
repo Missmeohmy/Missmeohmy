@@ -7,4 +7,4 @@ for name in names:
         counts[name] = 1
     else:
         counts[name] =counts[name]+1
-prints(counts)
+print(counts)
