@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Missmeohmy
 - 👀 I’m interested in frogs, coding, and networks
-- 🌱 I’m currently learning C programming, Java, A+ and Network+
+- 🌱 I’m currently learning Python, C programming, Java, A+ and Network+
 - 💞️ I’m looking to collaborate on everything!
 - 📫 How to reach me: redheadcoder@gmail.com
 
